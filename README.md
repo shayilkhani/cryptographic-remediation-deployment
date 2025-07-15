@@ -20,4 +20,4 @@
 ---
 
 🔗 **Remediation Script:**  
-[View Remediation](https://github.com/shayilkhani/buffer-overflow-programmatic-remediation/blob/main/remediation/secure-cryptographic-deployment.ps1)
+[View Remediation](https://github.com/shayilkhani/cryptographic-remediation-deployment/blob/main/remediation/cryptographic-remediation-deployment.ps1)
